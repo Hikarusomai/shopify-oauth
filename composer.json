@@ -7,13 +7,13 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Patrick Watzeels",
-            "email": "patrick@code.nl"
+            "name": "Moby",
+            "email": "contact@mobypay.my"
         }
     ],
     "require": {
         "php": ">=7.0.0",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^7.4",
         "league/oauth2-client": "^2.3"
     },
     "autoload": {
